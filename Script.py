@@ -10,8 +10,8 @@ class script(object):
 <b>✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱</b>
 <b>✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄</b>
 <b>✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43</b>
-<b>✮ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/CyniteBots>Cʏɴɪᴛᴇ-Bᴏᴛs</a></b>
-<b>✮ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://youtube.com/channel/UCMzFIpsfTkZfkI-O20o1gww>Tᴇᴄʜɴɪᴄᴀʟ-Cʏɴɪᴛᴇ</a></b>"""
+<b>✮ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/hulkupdates>Sr-Bᴏᴛs</a></b>
+<b>✮ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://youtube.com/channel/UChlwHo-VqB9uGpHT1GuoTsQ>Technical Sr 46</a></b>"""
     DONATION_TXT = """<b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b> 
 
 ›› <b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧</b>
@@ -85,7 +85,7 @@ Note:- Give a user details
 - Filter is the feature were users can set automated replies for a particular keyword and sᴘɪᴅᴇʀ-ғɪʟᴛᴇʀ-ʙᴏᴛ will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. sᴘɪᴅᴇʀ should have admin privillage.
+1. Hulk should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
